@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="D:\AndroidStudioProjects\comefreechat\app\build\intermediates\pre-dexed\debug\easemobchat_2.1.3-962a32481bf2fb7fb7df807cf1c68f4f280f225a.jar"
+        jar="D:\AndroidStudioProjects\comefreechat\app\libs\easemobchat_2.1.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="36c3856fbe45392fa69733111fd99b28e42b42a4"/>
+    <item
+        dex="D:\AndroidStudioProjects\comefreechat\app\build\intermediates\pre-dexed\debug\weioa-agreement-677708bdcbe54388794130542d40d89bfa8a151f.jar"
+        jar="D:\AndroidStudioProjects\comefreechat\app\libs\weioa-agreement.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6be1184c01320e5517b9ecca683a99945ee69bbb"/>
+    <item
+        dex="D:\AndroidStudioProjects\comefreechat\app\build\intermediates\pre-dexed\debug\jackson-all-1.8.5-88573b2b54e5dcc081048398cd438b2cde30bba7.jar"
+        jar="D:\AndroidStudioProjects\comefreechat\app\libs\jackson-all-1.8.5.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a5549eaa90a63b20da244690f9ade851eaeb2d99"/>
+    <item
+        dex="D:\AndroidStudioProjects\comefreechat\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-ccaace6905fda594d840a8e76de868f85abfd679.jar"
+        jar="D:\Program Files\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="D:\AndroidStudioProjects\comefreechat\app\build\intermediates\pre-dexed\debug\base64-b21ec01c98c72f4fa6a0944afc40a78b51f64eca.jar"
+        jar="D:\AndroidStudioProjects\comefreechat\app\libs\base64.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="0b4b7b7766312384f3b6824b0fbfe1c28f5a79b0"/>
+
+</pre-dex-items>
